@@ -6,7 +6,7 @@
 <b>portfolio Link :</b> https://dhamodhar-portfolio.vercel.app/
 <hr>
 
-#Images
+<h2>Images</h2> 
 
 ![Screenshot (47)](https://github.com/DhamodharG/portfolio/assets/145203520/50f0f6db-981d-46d2-a125-4adef600284d)
 ![Screenshot (48)](https://github.com/DhamodharG/portfolio/assets/145203520/f6398614-0eef-4668-b0fb-f274452fb19c)
